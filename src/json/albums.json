@@ -1,0 +1,43 @@
+{
+    "albumList": [
+       {
+       "title": "teemo_is_the_best",
+       "image": "https://github.com/kevin31703/inspic/blob/master/img/post.png?raw=true",
+       "thumbnail_image": "https://github.com/kevin31703/inspic/blob/master/img/head5.png?raw=true",
+       "likes":"527,549 likes",
+       "article":"Never underestimate the power of the Scout's code.",
+       "hashtag":"#Teemo #cute",
+       "article2":"View all 69 comments",
+       "time":"56 munutes ago"
+       },
+       {
+          "title": "teemo_is_the_best",
+          "image": "https://github.com/kevin31703/inspic/blob/master/img/post2.png?raw=true",
+          "thumbnail_image": "https://github.com/kevin31703/inspic/blob/master/img/head5.png?raw=true",
+          "likes":"345,915 likes",
+          "article":"Size doesn't mean everything.",
+          "hashtag":"#CaptainTeemoOnDuty #CCMyFace #So #Cute",
+          "article2":"View all 20 comments",
+          "time":"4 hours ago"
+       },
+       {
+          "title": "im_qiqi",
+          "image": "https://github.com/kevin31703/inspic/blob/master/img/post3.png?raw=true",
+          "thumbnail_image": "https://github.com/kevin31703/inspic/blob/master/img/head4.png?raw=true",
+          "likes":"12,946,841 likes",
+          "article":"I have my own swag.",
+          "hashtag":"#SWAG #IamQiQi #IWannabeMeMeMe #TrueDamage",
+          "article2":"View all 126 comments",
+          "time":"2 days ago"
+       },
+       {
+          "title": "hakunamatatta",
+          "image": "https://github.com/kevin31703/inspic/blob/master/img/post4.png?raw=true",
+          "thumbnail_image": "https://github.com/kevin31703/inspic/blob/master/img/head2.png?raw=true",
+          "likes":"94,845 likes",
+          "article":"grrrrrrrr.",
+          "hashtag":"@amazing_unicornn #Chihuahua #ugly #AmazingUnicornnn",
+          "article2":"View all 5 comments",
+          "time":"March 6, 2020"
+       }
+ ]}

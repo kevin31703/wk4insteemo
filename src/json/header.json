@@ -1,0 +1,65 @@
+
+{
+    "HomePage":
+        {
+            "HeaderLeftUrl":"https://github.com/kevin31703/inspic/blob/master/img/photo-camera.png?raw=true",
+            "HeaderMid":"https://github.com/kevin31703/inspic/blob/master/img/1200px-Instagram_logo.svg.png?raw=true",
+            "HeaderRightUrl":"https://github.com/kevin31703/inspic/blob/master/img/share.png?raw=true",
+            "bottomImage1":"https://github.com/kevin31703/inspic/blob/master/img/home.png?raw=true",
+            "bottomImage2":"https://github.com/kevin31703/inspic/blob/master/img/search.png?raw=true",
+            "bottomImage3":"https://github.com/kevin31703/inspic/blob/master/img/add.png?raw=true",
+            "bottomImage4":"https://github.com/kevin31703/inspic/blob/master/img/heart.png?raw=true",
+            "bottomImage5":"https://github.com/kevin31703/inspic/blob/master/img/account.png?raw=true"
+        },
+
+    "MessagePage":
+        {
+            "HeaderLeftUrl":"https://github.com/kevin31703/inspic/blob/master/img/arrow.png?raw=true",
+            "HeaderRightUrl":"https://github.com/kevin31703/inspic/blob/master/img/pen.png?raw=true",
+            "bottomImage":"https://github.com/kevin31703/inspic/blob/master/img/camera.png?raw=true",
+            "HeaderMidUrl":"https://github.com/kevin31703/inspic/blob/master/img/video.png?raw=true",
+            "HeaderDownUrl":"https://github.com/kevin31703/inspic/blob/master/img/down.png?raw=true"
+        },
+
+        "Friends": 
+        {
+            "name": "i_am_youuuuuuuu",
+            "camera": "https://github.com/kevin31703/inspic/blob/master/img/photo-camera.png?raw=true",
+            "thumbnail_image": "https://github.com/kevin31703/inspic/blob/master/img/head.png?raw=true",
+            "chat":"Replied to your story . 4h"
+
+        },
+
+        "Friends2": 
+        {
+        "name": "shiajyuon1204",
+        "camera": "https://github.com/kevin31703/inspic/blob/master/img/photo-camera.png?raw=true",
+        "thumbnail_image": "https://github.com/kevin31703/inspic/blob/master/img/head3.png?raw=true",
+        "chat":"Active 6m ago"
+        },
+
+        "Friends3": 
+        {
+         "name": "im_qiqi",
+         "camera": "https://github.com/kevin31703/inspic/blob/master/img/photo-camera.png?raw=true",
+         "thumbnail_image": "https://github.com/kevin31703/inspic/blob/master/img/head4.png?raw=true",
+         "chat":"Active today"
+        },
+
+        "Friends4": 
+        {
+        "name": "teemo_is_the_best",
+        "camera": "https://github.com/kevin31703/inspic/blob/master/img/photo-camera.png?raw=true",
+        "thumbnail_image": "https://github.com/kevin31703/inspic/blob/master/img/head5.png?raw=true",
+        "chat":"Active 4h ago"
+        },
+
+        "Friends5": 
+        {
+            "name": "hakunamatatta",
+            "camera": "https://github.com/kevin31703/inspic/blob/master/img/photo-camera.png?raw=true",
+            "thumbnail_image": "https://github.com/kevin31703/inspic/blob/master/img/head2.png?raw=true",
+            "chat":"Replied to your story . 4h"
+        }
+            
+}
